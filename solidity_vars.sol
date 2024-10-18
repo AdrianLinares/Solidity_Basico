@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// 0x06405afD1Eda7B328950477AaCF315712B486a37
 pragma solidity 0.8.24;
 
 contract solidty_vars {
