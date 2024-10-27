@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: MIT
 // Compatible with OpenZeppelin Contracts ^5.0.0
+// 0xEe762682a3Cb6BCfa3Bfa9b0C3289bbD08CA457B
 pragma solidity ^0.8.22;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
